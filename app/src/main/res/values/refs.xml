@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_menu" />
+    <drawable name="ic_edit" />
+    <drawable name="ic_avatar_placeholder" />
+    <drawable name="ic_share" />
+    <drawable name="ic_send" />
+</resources>
